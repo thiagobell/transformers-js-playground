@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/transformers-js-playground/static/css/main.f855e6bc.css",
+    "main.js": "/transformers-js-playground/static/js/main.d7547d04.js",
+    "static/js/565.646bfd45.chunk.js": "/transformers-js-playground/static/js/565.646bfd45.chunk.js",
+    "static/js/453.5e420eae.chunk.js": "/transformers-js-playground/static/js/453.5e420eae.chunk.js",
+    "static/js/964.7aa13222.chunk.js": "/transformers-js-playground/static/js/964.7aa13222.chunk.js",
+    "index.html": "/transformers-js-playground/index.html",
+    "main.f855e6bc.css.map": "/transformers-js-playground/static/css/main.f855e6bc.css.map",
+    "main.d7547d04.js.map": "/transformers-js-playground/static/js/main.d7547d04.js.map",
+    "565.646bfd45.chunk.js.map": "/transformers-js-playground/static/js/565.646bfd45.chunk.js.map",
+    "453.5e420eae.chunk.js.map": "/transformers-js-playground/static/js/453.5e420eae.chunk.js.map",
+    "964.7aa13222.chunk.js.map": "/transformers-js-playground/static/js/964.7aa13222.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.d7547d04.js"
+  ]
+}
